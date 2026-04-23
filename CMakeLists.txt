@@ -11,5 +11,5 @@ add_executable(test1 test1.cpp)
 add_executable(test2 test2.cpp)
 
 # Main executable for OJ
-add_executable(code test2.cpp)
+add_executable(code main.cpp)
 
